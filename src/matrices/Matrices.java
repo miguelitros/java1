@@ -56,6 +56,7 @@ public class Matrices {
             for(int j=0;j<m[i].length;j++){
                 if (m.length-1-i==j){
                     System.out.print(m[i][j] + "|");
+                    //holaaaaa
                 }
             }
         }
